@@ -14,3 +14,8 @@
 
 🚀 `Auto-CVI-Tool , An Automatic toolbox for Cluster Validity Indexes(CVI)`
 * [![View Auto-CVI-Tool on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://nl.mathworks.com/matlabcentral/fileexchange/118685-auto-cvi-tool)
+
+  
+🚀 `A ColorMap(HeatMap)Style Confusion Matrix`
+* [![View A ColorMap(HeatMap)Style Confusion Matrix on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://nl.mathworks.com/matlabcentral/fileexchange/120363-a-colormap-heatmap-style-confusion-matrix)
+  
